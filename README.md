@@ -1,2 +1,0 @@
-# ITConfToGoList
-Created with CodeSandbox

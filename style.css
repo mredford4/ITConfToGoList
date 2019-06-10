@@ -1,0 +1,63 @@
+html {
+  font-family: "Cabin", sans-serif;
+  font-size: 2em;
+}
+#app {
+  background: #78f;
+  color: #fff;
+  border: 4px solid #34a;
+  padding: 10px;
+  border-radius: 8px;
+  width: 90%;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 10px 10px #ccc;
+}
+
+h2 {
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  user-select: none;
+}
+
+table {
+  background: #cdf;
+  color: #34a;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  border: 4px solid #34a;
+  border-radius: 8px;
+  user-select: none;
+}
+
+td {
+  vertical-align: top;
+}
+
+hr {
+  border: 3px solid #78f;
+}
+
+#entry_box {
+  vertical-align: top;
+  margin: 15px 0px 10px 10px;
+  width: 80%;
+  font-size: 20pt;
+}
+
+.btn {
+  cursor: pointer;
+  user-select: none;
+}
+
+#add_btn {
+  vertical-align: top;
+  padding-top: 18px;
+}
+
+.del_btn {
+  text-align: center;
+  padding: 0px;
+}
